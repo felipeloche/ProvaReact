@@ -1,0 +1,50 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+}
+
+table {
+    margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+nav {
+  background-color: #282c34;
+  padding: 2%;
+}
+
+nav a {
+  text-decoration: none;
+  color: whitesmoke;
+  display: inline-block;
+  margin-left: 4%;
+  margin-right: 3%;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav h2 {
+  color: whitesmoke;
+}
+
+footer {
+  background-color: #282c34;
+  color: whitesmoke;
+}
